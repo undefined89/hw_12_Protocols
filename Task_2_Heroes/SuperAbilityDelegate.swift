@@ -1,0 +1,4 @@
+protocol HavingSuperAbility {
+    
+    func applySuperAbility()
+}
